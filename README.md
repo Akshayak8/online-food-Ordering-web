@@ -29,5 +29,3 @@ The Online Food Ordering Webpage allows users to browse through a selection of f
    ```
 
 2. Open the `index.html` file in your web browser to view the webpage.
-
-3. Explore the menu, add items to your cart, and proceed to place an order.
